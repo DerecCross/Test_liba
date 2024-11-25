@@ -1,0 +1,17 @@
+{
+    "name": "dereccross/test_liba",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Dereccross\\TestLiba\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladimir Moskaliuk",
+            "email": "vovik.ru.2010@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
